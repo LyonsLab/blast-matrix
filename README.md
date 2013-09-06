@@ -1,4 +1,4 @@
 blast-matrix
 ============
 
-Blast matrix used in the CoGe Blast tool
+Blast matrices used by the CoGe Blast tool.
